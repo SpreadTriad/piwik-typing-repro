@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@tsconfig/react-native": "^3.0.0",
+    "@types/jest": "^29.5.1",
+    "@types/react": "^18.0.37",
+    "@types/react-test-renderer": "^18.0.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@piwikpro/react-native-piwik-pro-sdk": "^1.0.7",
+    "react-native": "^0.71.7"
+  }
+}
